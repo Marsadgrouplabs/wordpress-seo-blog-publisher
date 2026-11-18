@@ -1,0 +1,9 @@
+/dist/
+__pycache__/
+*.pyc
+node_modules/
+.env
+.env.*
+sites.txt
+.DS_Store
+Thumbs.db

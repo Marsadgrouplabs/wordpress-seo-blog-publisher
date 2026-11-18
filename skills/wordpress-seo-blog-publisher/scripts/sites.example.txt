@@ -1,0 +1,7 @@
+https://www.example.com
+wordpress-username
+xxxx xxxx xxxx xxxx xxxx xxxx
+
+https://blog.example.org
+another-username
+xxxx xxxx xxxx xxxx xxxx xxxx

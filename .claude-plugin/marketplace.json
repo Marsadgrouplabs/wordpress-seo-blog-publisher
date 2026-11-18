@@ -1,0 +1,15 @@
+{
+  "name": "marsad-wordpress-seo-blog-publisher",
+  "description": "Research, write and publish a full SEO blog post to WordPress with RankMath-ready values.",
+  "owner": {
+    "name": "Marsad Labs",
+    "url": "https://labs.marsadgroup.co"
+  },
+  "plugins": [
+    {
+      "name": "wordpress-seo-blog-publisher",
+      "source": "./",
+      "description": "Research, write and publish a full SEO blog post to WordPress with RankMath-ready values."
+    }
+  ]
+}

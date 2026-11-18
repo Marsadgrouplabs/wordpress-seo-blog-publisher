@@ -1,0 +1,10 @@
+{
+  "name": "wordpress-seo-blog-publisher",
+  "version": "5.0.0",
+  "description": "Research, write and publish a full SEO blog post to WordPress with RankMath-ready values.",
+  "author": {
+    "name": "Marsad Labs",
+    "url": "https://labs.marsadgroup.co"
+  },
+  "homepage": "https://labs.marsadgroup.co"
+}
